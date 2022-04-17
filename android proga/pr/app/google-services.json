@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013341605615",
+    "project_id": "data-98267",
+    "storage_bucket": "data-98267.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013341605615:android:0ee771afb93cf5326a151a",
+        "android_client_info": {
+          "package_name": "com.hfad.daily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013341605615-f0qlvg9nc3igs8oig97cv0fbtckoasog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiXP7Q44B8YvGbkVvKjNP2dMyz-1g9Gqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013341605615-f0qlvg9nc3igs8oig97cv0fbtckoasog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
